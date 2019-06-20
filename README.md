@@ -1,1 +1,1 @@
-# voice4vtuber
+# VTuber向け音声調整ガイドライン
